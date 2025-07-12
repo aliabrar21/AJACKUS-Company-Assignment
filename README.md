@@ -5,23 +5,23 @@ A responsive and interactive Employee Directory Web Interface built with HTML, C
 ## Screenshots
 
 ### Dashboard View
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 *Main dashboard showing employee grid with search and filter options*
 
 ### Add Employee Modal
-![Add Employee Modal](screenshots/add-employee-modal.png)
+![Add Employee Modal](Screenshots/add-employee-modal.png)
 *Modal form for adding new employees with validation*
 
 ### Edit Employee Modal
-![Edit Employee Modal](screenshots/edit-employee-modal.png)
+![Edit Employee Modal](Screenshots/edit-employee-modal.png)
 *Modal form for editing existing employee information*
 
 ### Filter Sidebar
-![Filter Sidebar](screenshots/filter-sidebar.png)
+![Filter Sidebar](Screenshots/filter-sidebar.png)
 *Advanced filtering options by name, department, and role*
 
 ### Mobile Responsive View
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](Screenshots/mobile-view.png)
 *Responsive design optimized for mobile devices*
 
 ### Delete Confirmation
